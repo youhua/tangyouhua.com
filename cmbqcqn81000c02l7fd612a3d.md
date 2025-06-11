@@ -176,12 +176,14 @@ We have had a [design system](https://www.figma.com/design/ogjn6pRFttytQXQNP4g5Q
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749522856491/9666ca0b-b236-4d7c-8bbc-b1cf2513dca4.png align="center")
     
-4. **Align the form components:**Currently, the form components in Figma, such as buttons, selects, and inputs, have different options than those in the code. As a result, we have to customize these components repeatedly. We should align the design and code of these components once to avoid any more repeated overrides.
+4. **Align the form components:** Currently, the form components in Figma, such as buttons, selects, and inputs, have different properties than those in the code. As a result, we have to customize these components repeatedly. We should align the design and code of these components once to avoid any more repeated overrides.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749547998863/4f642afc-7c5b-4bed-aadd-4759a7b180b4.png align="center")
+[![Screenshot of a component playground interface with a description field. It includes advice to limit campaigns to 30 days, as those over 60 days are rarely successful. Options for input type, size, and variable modes are on the right.](https://cdn.hashnode.com/res/hashnode/image/upload/v1749547998863/4f642afc-7c5b-4bed-aadd-4759a7b180b4.png align="center")](https://www.figma.com/design/ogjn6pRFttytQXQNP4g5Qb/%F0%9F%92%8E-Pietra-Design-System?node-id=1533-23876&t=2bHoBM0CzdxF2hEs-4)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749548178225/1c25601b-9c6d-4071-89ba-b3b4422a05eb.png align="center")
+Instead of building all the input components from scratch, we can simply copy them from the [Ant Design Open Source (Community) Figma](https://www.figma.com/design/ytN4UDZtsF8qQxPm6Bt13q/Ant-Design-Open-Source--Community-?node-id=24035-76292&t=WMtcdLe7XFeQYIwS-4).
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749602805237/8fc9da9f-3ad1-41f0-9470-d72bd86e41e3.png align="center")
 
 ## A checklist for design review
 
