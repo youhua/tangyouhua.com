@@ -181,7 +181,7 @@ We have had a [design system](https://www.figma.com/design/ogjn6pRFttytQXQNP4g5Q
 
 [![Screenshot of a component playground interface with a description field. It includes advice to limit campaigns to 30 days, as those over 60 days are rarely successful. Options for input type, size, and variable modes are on the right.](https://cdn.hashnode.com/res/hashnode/image/upload/v1749547998863/4f642afc-7c5b-4bed-aadd-4759a7b180b4.png align="center")](https://www.figma.com/design/ogjn6pRFttytQXQNP4g5Qb/%F0%9F%92%8E-Pietra-Design-System?node-id=1533-23876&t=2bHoBM0CzdxF2hEs-4)
 
-Instead of building all the input components from scratch, we can simply copy them from the [Ant Design Open Source (Community) Figma](https://www.figma.com/design/ytN4UDZtsF8qQxPm6Bt13q/Ant-Design-Open-Source--Community-?node-id=24035-76292&t=WMtcdLe7XFeQYIwS-4).
+Instead of building all the input components from scratch, we can simply copy them from the [Ant Design Open Source (Community) Figma](https://www.figma.com/community/file/831698976089873405).
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749602805237/8fc9da9f-3ad1-41f0-9470-d72bd86e41e3.png align="center")
 
