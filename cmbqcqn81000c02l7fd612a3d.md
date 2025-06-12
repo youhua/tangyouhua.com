@@ -72,7 +72,7 @@ There are two key steps that could help address this issue:
     Change the avatar, name, images, text, and other content as much as possible to make them familiar to your target customers. This helps users feel a sense of connection.
     
 
-Of course, this requires some extra time, but overall it is still much more convenient and faster than waiting for the engineering team to write code, create a database, and deploy it to the preview environment.
+Of course, this approach takes a bit more time, but it's still much quicker and more convenient than waiting for the engineering team to write code, set up a database, and deploy it to the preview environment.
 
 ## Thinking about the big picture
 
@@ -80,11 +80,11 @@ Many times, we spend weeks or even months hurrying to release a new feature, onl
 
 ### Focus on tracking metrics and user flows from the beginning
 
-It's recommended to clearly define how to measure the success of the feature before beginning any future design. This will help us focus on designing events and create more effective user flows for better conversion from the start.
+It's recommended to clearly define how to measure the feature's success before beginning any future design. This will help us focus on designing events and creating more effective user flows for better conversion.
 
 ### Design the different states, such as loading, error, empty status, and other edge cases
 
-The Form component we use in Ant Design includes several interaction and validation states. We should align these states with our brand's visual system globally, so the different interaction states of our form components meet expectations by default, without needing to override them each time with temporary fixes.
+Technically, we use the Form component from Ant Design, which includes various interaction and validation states. We should ensure these states match our brand's visual system consistently. This way, the different interaction states of our form components will meet expectations by default, without needing any overrides.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749546880448/dbb4ce43-e8ce-4895-a317-9fe408d2dd1d.png align="center")
 
